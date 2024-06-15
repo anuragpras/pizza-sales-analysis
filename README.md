@@ -4,7 +4,7 @@ This project involves analyzing pizza sales data using MySQL for database manage
 ### Requirements:
 
 -MySQL\
--Microsoft Excel\
+-Microsoft Excel
 
 
 ### Getting Started
