@@ -3,13 +3,13 @@ This project involves analyzing pizza sales data using MySQL for database manage
 
 Requirements:
 
-MySQL
-
-Microsoft Excel
+-MySQL
+-Microsoft Excel
 
 
 Getting Started
-Clone the repository.
-Import the provided SQL scripts into your MySQL database.
-Load the data into Excel using the provided templates.
-Analyze and visualize the data as needed.
+
+-Clone the repository.
+-Import the provided SQL scripts into your MySQL database.
+-Load the data into Excel using the provided templates.
+-Analyze and visualize the data as needed.
