@@ -16,3 +16,6 @@ This project focuses on analyzing pizza sales data using MySQL for database mana
 
 
 ![Untitled video - Made with Clipchamp(1)](https://github.com/anuragpras/pizza-sales-analysis/assets/123822254/3e878d40-56be-411f-b9a6-c3ce08f625bc)
+
+
+- YT: https://youtu.be/PBK7BjVYh4g?feature=shared
